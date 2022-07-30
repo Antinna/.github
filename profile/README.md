@@ -24,11 +24,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Home Automation using NodeMCU ESP8266 and Flutter App | FLUTTER | ESP8266 | FLUTTER  IOT](https://youtu.be/ViJyLYfiFXs)
-- [FLUTTER | ESP32  8*32 Matrix Display Painter - using flutter app](https://youtu.be/Tqpv6uvrEmQ)
-- [Smart RGB Lamp using esp8266 and Flutter App | Flutter 2.2 | esp8266](https://youtu.be/ZaNnzSa9pVw)
-- [ESP32 Cam | FLUTTER |Control pad for esp32 cam  car](https://youtu.be/GZOu786Ne4U)
-- [FLUTTER | ESP32 | BLE- Weather Station using DHT11 sensor](https://youtu.be/1pDnYhamIeA)
+
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/c/Antinna)
