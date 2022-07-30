@@ -1,4 +1,3 @@
-## Hi there 👋
 
 
 
@@ -9,6 +8,32 @@
 <a href="https://www.youtube.com/antinna?sub_confirmation=1">
 [![youtube](https://img.shields.io/badge/-Antinna-313131?style=flat-square&labelColor=313131&logo=youtube&logoColor=red&color=313131)](https://www.youtube.com/antinna)
   </a> 
+<br />
+  ### Languages and Tools:
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>    
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png"></code> 
+<br />
+<br />
+  
+  ---
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [Home Automation using NodeMCU ESP8266 and Flutter App | FLUTTER | ESP8266 | FLUTTER  IOT](https://youtu.be/ViJyLYfiFXs)
+- [FLUTTER | ESP32  8*32 Matrix Display Painter - using flutter app](https://youtu.be/Tqpv6uvrEmQ)
+- [Smart RGB Lamp using esp8266 and Flutter App | Flutter 2.2 | esp8266](https://youtu.be/ZaNnzSa9pVw)
+- [ESP32 Cam | FLUTTER |Control pad for esp32 cam  car](https://youtu.be/GZOu786Ne4U)
+- [FLUTTER | ESP32 | BLE- Weather Station using DHT11 sensor](https://youtu.be/1pDnYhamIeA)
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://www.youtube.com/c/Antinna)
+
+---
 
 
 ## Manish Gautam
